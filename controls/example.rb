@@ -1,5 +1,7 @@
 # copyright: 2018, The Authors
 
+## This is a custom inspec profile 
+
 title "my custom sshd profile"
 
 # you add controls here
